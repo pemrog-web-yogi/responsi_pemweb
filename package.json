@@ -1,0 +1,22 @@
+{
+  "name": "my-nuxt-portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "start": "nuxi preview",
+    "generate": "nuxi generate"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "flowbite": "^2.4.1",
+    "nuxt": "^3.12.3"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.12.0"
+  }
+}
